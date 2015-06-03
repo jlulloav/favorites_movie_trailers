@@ -1,6 +1,6 @@
 # Favorites Movie Trailers
 
-Favorites Movie Trailers is a python application that create or update an HTML file called favorites_movie.html based on a list of movie object.
+Favorites Movie Trailers is a python application that create or update an HTML file called favorites_movie_trailers.html based on a movie-object list.
 
 ## Table of contents
 
