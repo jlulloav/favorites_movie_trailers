@@ -1,6 +1,8 @@
 import webbrowser
 
+
 class Movie():
+
     """Stores a movie information
 
     Attributes:
@@ -11,7 +13,7 @@ class Movie():
         director_name: A string with the movie-director name.
         featured_song: A string indicating the movie-featured song.
     """
-    
+
     def __init__(self, movie_title, movie_storyline, poster_image,
                  trailer_youtube, movie_director_name, movie_featured_song):
         """Inits Movie with title, storyline, poster image url,
