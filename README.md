@@ -10,10 +10,9 @@ Favorites Movie Trailers is a python application that create or update an HTML f
 
 ### What's included
 
-Within the download you'll find the following directories and files. You'll see something like this:
+Within the download you'll find the following files. You'll see something like this:
 
 ```
-favorites_movies/
 ├── entertainment_center.py
 ├── favorites_movie_trailers.html
 ├── favorites_movie.py
